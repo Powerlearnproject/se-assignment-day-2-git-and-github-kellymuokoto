@@ -3,7 +3,20 @@
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
 
+Version control is a system that tracks changes of files over time, allowing multiple people to collaborate on projects efficiently. Allows developers to maintain a history of modifications, compare versions, and revert to previous states if needed. 
+GitHub is a populat tool - its a cloud-based hosting service for Git repositories and it offers the following : Remote repositories, Collaboration features, Branching and Merging, Security & Access control, Intergration and automation.
+Version control help maintain project integrity by : change tracking, collaboration management, error recovery, parallel development and accountability.
+
+
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
+
+Setting up new repository
+Step 1: Go to GitHub and login with your credentials, if you dont have an account sign up for one.
+Step 2: Create a new repository. Click the + icon in the top right corner and select new repository.
+Step 3: Configure the repository. Repository name, description, visibility, initialize with a readme, add a gitignore file, choose a licence.
+Step 4: Create the repository.
+Step 5: Clone the repository to work offline
+Step 6: Start working on your project
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 
